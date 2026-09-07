@@ -5,7 +5,8 @@ Applied Physics engineer
 ## My projects
 
 Computational Physics Project
+OpenGL Project
 
 ## My skills
 
-Super Python
+Super Python, C++, Git, Linux
