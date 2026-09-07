@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: John Wernborg
 description: This is my portfolio website.
 logo: /images/indian_rhinoceros.jpg
+show_downloads: true
+lang: eng
