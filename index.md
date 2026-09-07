@@ -8,4 +8,4 @@ Computational Physics Project
 
 ## My skills
 
-Python
+Super Python
